@@ -2,3 +2,7 @@ node_modules/
 dist/
 outputs/
 src/app.old.ts
+
+custom-outputs/
+test-destination/
+coverage/
